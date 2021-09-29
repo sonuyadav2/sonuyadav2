@@ -23,7 +23,9 @@ Here are some ideas to get you started:
 </a>
   
 </p>
-<br><br>
+<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sonuyadav2)](https://github.com/sonuyadav2)
+<br>
 
 
 
