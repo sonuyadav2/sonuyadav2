@@ -25,5 +25,5 @@ Here are some ideas to get you started:
 </p>
 <br><br>
 
-[![Github stats](https://github-readme-stats.vercel.app/api?username=vanshika-bhasin&theme=vision-friendly-dark&show_icons=true)](https://github.com/vanshika-bhasin/github-readme-stats)
+
 
