@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Sonu Yadav
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=sonuyadav2&theme=dark&show_icons=true)
+<!--![Github stats](https://github-readme-stats.vercel.app/api?username=sonuyadav2&theme=dark&show_icons=true)-->
 <br>
 ## About Me
 My name's SONU YADAV. I'm currently in my Final year, in CSE A at UIET KUK .I have knowledge of C++, Web Development , Android App Development, WordPress and Python.
