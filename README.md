@@ -9,7 +9,7 @@ I am also interested in Iot & Game Development.
 ## Connect with me
 <br>
  <a href = https://www.instagram.com/___sonuyadav___>
-  <img src=https://img.freepik.com/premium-vector/purple-gradiend-social-media-logo_197792-1883.jpg height='30' 
-weight='30'></a>•<a href = https://www.linkedin.com/in/sonu-yadav2/><img src= height='30' weight='30'></a> • <a href =https://twitter.com/SonuYad51181593><img src=https://drive.google.com/file/d/1l-9TMGsmjotYT1QK9Tuu9H5P3ddx8bcF/view?usp=sharing  height='30' weight='30'></a> 
+  <img src="https://drive.google.com/file/d/1-FWUEgld8bi9c3lBVhC3OGWg9HWgizVR/view?usp=sharing" height='30' 
+weight='30'></a>•<a href = https://www.linkedin.com/in/sonu-yadav2/><img src="https://drive.google.com/file/d/1FnF_T8kRbp7gsxuQ5k9vqYFU7RYaa7vn/view?usp=sharing" height='30' weight='30'></a> • <a href =https://twitter.com/SonuYad51181593><img src="https://drive.google.com/file/d/1l-9TMGsmjotYT1QK9Tuu9H5P3ddx8bcF/view?usp=sharing"  height='30' weight='30'></a> 
 
 
