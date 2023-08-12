@@ -3,7 +3,7 @@
 ![Github stats](https://github-readme-stats.vercel.app/api?username=sonuyadav2&theme=dark&show_icons=true)
 <br>
 ## About Me
-My name's SONU YADAV. I'm currently in my 2nd year, in CSE A at UIET KUK .I have knowledge of C++, Web Development , Android App Development , AWS Cloud ,WordPress and Python.
+My name's SONU YADAV. I'm currently in my Final year, in CSE A at UIET KUK .I have knowledge of C++, Web Development , Android App Development, WordPress and Python.
 I am also interested in Iot & Game Development.
 <br>
 ## Connect with me
